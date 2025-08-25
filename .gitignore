@@ -1,3 +1,4 @@
+copilot run
 # App artifacts
 /_build
 /apps/*/cover
